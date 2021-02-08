@@ -5,6 +5,6 @@ Facebook gives the user ability to download a copy of all his activities, includ
 Screenshots below are presenting created database opened with `DB Browser for SQLite`, and code for data extraction and example analysis with pandas and SQL is shown in Jupyter file.
 
 <p float="left">
-  <img src="https://github.com/PrzemyslawKepka/facebook_archive_analysis/blob/main/db_sqlite_data.PNG" width="500" />
-  <img src="https://github.com/PrzemyslawKepka/facebook_archive_analysis/blob/main/db_sqlite_structure.PNG" width="500" /> 
+  <img src="https://github.com/PrzemyslawKepka/facebook_archive_analysis/blob/main/db_sqlite__data.PNG" width="500" />
+  <img src="https://github.com/PrzemyslawKepka/facebook_archive_analysis/blob/main/db_sqlite__structure.PNG" width="500" /> 
 </p>
