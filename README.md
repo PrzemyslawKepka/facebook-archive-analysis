@@ -9,6 +9,6 @@ Screenshots below are presenting created database opened with `DB Browser for SQ
 <img src="https://github.com/PrzemyslawKepka/facebook_archive_analysis/blob/main/db_sqlite_structure.PNG" alt="DB Sqlite strucute" width="500">
 
 <p float="left">
-  <img src="https://github.com/PrzemyslawKepka/facebook_archive_analysis/blob/main/db_sqlite_data.PNG" width="100" />
+  <img src="https://github.com/PrzemyslawKepka/facebook_archive_analysis/blob/main/db_sqlite_data.PNG" width="500" />
   <img src="https://github.com/PrzemyslawKepka/facebook_archive_analysis/blob/main/db_sqlite_structure.PNG" width="500" /> 
 </p>
